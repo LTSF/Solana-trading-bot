@@ -15,8 +15,7 @@ To run the script you need to:
   - You need USDC or WSOL depending on the configuration set below.
 - Configure the script by updating `.env.copy` file (remove the .copy from the file name when done).
   - Check [Configuration](#configuration) section bellow
-- Install dependencies by typing: `npm install`
-- Run the script by typing: `npm run start` in terminal
+- Run the script by running: `bot.exe`
 
 You should see the following output:  
 ![output](readme/output.png)
